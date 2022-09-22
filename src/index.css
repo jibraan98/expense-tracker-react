@@ -1,0 +1,60 @@
+.container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+.info {
+    display: inline-flex;
+}
+
+.income {
+    background-color: rgb(216, 215, 215);
+    align-items: center;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+
+.expense {
+    background-color: rgb(152, 234, 238);
+    align-items: center;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+
+.total {
+    background-color: rgb(191, 250, 181);
+    align-items: center;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+
+.expenseList {
+    margin-top: 2rem;
+    text-align: start;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    
+}
+
+.add-expense {
+    text-align: start;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.form {
+    margin-top: 1rem;
+}
+
+.cost {
+   /* margin-left: 90%; */
+    float: right;
+}
+
+.remove-icon {
+    float: right;
+    margin-left: 1rem;
+}
+
+
